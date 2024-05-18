@@ -1,0 +1,40 @@
+{
+    "dogs": [
+        {
+            "name": "CuCai",
+            "age": 7,
+            "src": "cucai",
+            "facts": [
+                "Dad",
+                "Very loyal"
+            ]
+        },
+        {
+            "name": "KimChi",
+            "age": 5,
+            "src": "kimchi",
+            "facts": [
+                "Mom",
+                "Love to swim"
+            ]
+        },
+        {
+            "name": "CaRot",
+            "age": 3,
+            "src": "carot",
+            "facts": [
+                "Son",
+                "Love to catch fish"
+            ]
+        },
+        {
+            "name": "Cachua",
+            "age": 1,
+            "src": "cachua",
+            "facts": [
+                "Daughter-in-law",
+                "Love to play"
+            ]
+        }
+        ]
+}
